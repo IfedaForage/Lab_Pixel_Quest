@@ -8,6 +8,9 @@ TagManager:
   - Death
   - Health
   - Coin
+  - Enemy
+  - TalkZone
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -47,4 +50,13 @@ TagManager:
     locked: 0
   - name: BackgroundLayer
     uniqueID: 376187425
+    locked: 0
+  - name: TileLayer
+    uniqueID: 3001742543
+    locked: 0
+  - name: Player
+    uniqueID: 681621433
+    locked: 0
+  - name: 
+    uniqueID: 2560032243
     locked: 0
